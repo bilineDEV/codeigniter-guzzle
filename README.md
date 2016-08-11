@@ -1,6 +1,7 @@
 Guzzle~6.0  installation in Codeigniter 2.2
 ============================================
 
+## Read THIS: http://docs.guzzlephp.org/en/latest/overview.html
 
 ## Installing Guzzle
 
